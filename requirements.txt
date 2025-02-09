@@ -1,9 +1,5 @@
 Flask>=2.2.0
 Werkzeug>=2.1.0
-Flask-SQLAlchemy==3.0.2
-Flask-Migrate==4.0.4
-Flask-WTF==1.1.1
-WTForms==3.0.1
-gunicorn==20.1.0
-pymysql==1.0.3
-psycopg2==2.9.6
+gunicorn
+sqlite
+Jinja2
