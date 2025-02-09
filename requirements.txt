@@ -1,5 +1,4 @@
 Flask>=2.2.0
 Werkzeug>=2.1.0
 gunicorn
-sqlite
 Jinja2
