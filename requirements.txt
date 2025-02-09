@@ -1,0 +1,9 @@
+Flask==2.2.3
+Flask-SQLAlchemy==3.0.2
+Flask-Migrate==4.0.4
+Flask-WTF==1.1.1
+WTForms==3.0.1
+gunicorn==20.1.0
+pymysql==1.0.3  # Nếu dùng MySQL
+psycopg2==2.9.6  # Nếu dùng PostgreSQL
+sqlite==3.38.5  # Nếu dùng SQLite
